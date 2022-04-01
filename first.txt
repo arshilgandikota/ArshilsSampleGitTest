@@ -1,0 +1,6 @@
+Arshil is writing is first message in his first git project.
+:w
+:wq
+:wq
+i had trouble last time let's try once more
+ok!
